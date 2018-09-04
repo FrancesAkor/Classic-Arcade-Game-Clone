@@ -18,7 +18,7 @@ To run this application, download or clone the zip file from this repository to 
 
 ## How to Play
 
-* Use the keyboard arrow keys(left/right/up/dowm) to navigate the canvas to the water block(topmost block) while avoiding been hit by an enemy.
+* Use your keyboard arrow keys(left/right/up/dowm) to navigate the canvas to the water block(topmost block) while avoiding been hit by an enemy.
 * If you are hit by an enemy, the game returns you to the initial start position.
 * When you get to the water block, the game returns you to the initial start position and increases the game level and the difficulty.      This continues until you get to the final level(6) afterwhich a congratulatory modal is output.
 * To play again, click on the close icon or the play again button
