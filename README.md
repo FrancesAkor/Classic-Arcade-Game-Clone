@@ -29,4 +29,4 @@ The game was built using Object-Oriented Javascript and the player and enemy cla
 
 ## Link to Live Page
 
-Want to have fun and defeat your enemies? click [here](https://francesakor.github.io/Frogger-game/)
+Want to have fun and defeat your enemies? click [here](https://francesakor.github.io/Classic-Arcade-Game-Clone/)
