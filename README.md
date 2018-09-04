@@ -14,7 +14,7 @@ This is my third project at the Udacity Nanodegree Frontend Web Development prog
 
 ## How to Run
 
-To run this application, download or clone the zip file from this repository to your computer and then open click on the index.html file to open the game in your browser. Alternatively, you can click on the live link in the section below.
+To run this application, download or clone the zip file from this repository to your computer and then click on the index.html file to open the game in your browser. Alternatively, you can click on the link in the **Link to Live page** section below to play.
 
 ## How to Play
 
