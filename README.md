@@ -1,26 +1,32 @@
-# Frogger-game
+# Classic Arcade Game Clone
 
 ## Table of Contents
 
 * [About](#About)
+* [How to Run](#Howtorun)
 * [How to Play](#Howtoplay)
 * [Dependencies](#Dependencies)
 * [Link To Live Page](#linktolivepage)
 
 ## About
 
-The Memory Game is a game that challenges your retentive ability. It comprises of a deck of eight different pairs of cards which you are expected to match with less number of moves and less time. The cards are shuffled at the beginning of each play or at the click of the restart button.
+This is my third project at the Udacity Nanodegree Frontend Web Development program. The game is about a player who tries to avoid been hit by an enemy bug while navigating through a canvas to a place of safety.
+
+## How to Run
+
+To run this application, download or clone the zip file from this repository to your computer and then open click on the index.html file to open the game in your browser. Alternatively, you can click on the live link in the section below.
 
 ## How to Play
 
-* Click on a card to unveil its icon and then click on another to check if they match
-* While you unveil the cards, ensure you commit to memory the positions of the different icons
-* Match the icons with less number of moves and in less time
+* Use the keyboard arrow keys(left/right/up/dowm) to navigate the canvas to the water block(topmost block) while avoiding been hit by an enemy.
+* If you are hit by an enemy, the game returns you to the initial start position.
+* When you get to the water block, the game returns you to the initial start position and increases the game level and the difficulty.      This continues until you get to the final level(6) afterwhich a congratulatory modal is output.
+* To play again, click on the close icon or the play again button
 
 ## Dependencies
 
-The icons and the write-ups in this game are dependent on Bootstrap font awesome version 4.6.1 and Google fonts respectively. In addition, the layout of the game was done using flexbox while its responsiveness was improved using media query.
+The game was built using Object-Oriented Javascript and the player and enemy classes were created using ES6.
 
 ## Link to Live Page
 
-Interested in improving your retentive memory? click [here](https://francesakor.github.io/Memory-Game/)
+Want to have fun and defeat your enemies? click [here](https://francesakor.github.io/Frogger-game/)
